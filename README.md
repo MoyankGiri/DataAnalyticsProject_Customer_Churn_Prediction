@@ -27,7 +27,7 @@ If the code is run on google colab/ kaggle
 **Make sure you have the .csv file uploaded into the session and placed at the required place** <br>
 
 Thank you <br>
-Project done as part of Elective: Data Analytics (UE19CS312) 
+Project done as part of Elective: Data Analytics (UE19CS312) <br>
 Team:
 * Moyank Giri, PES1UG19CS280
 * Anusha S Rao, PES1UG19CS077
