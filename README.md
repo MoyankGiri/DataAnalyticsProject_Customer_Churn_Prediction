@@ -21,10 +21,13 @@ The model used here was a voting classifier consisting of the following:
 <br>
 
 The files under Temp docs are docs not submitted but could be considered also <br>
+The presentation used in the video is also present under the Reports folder <br>
 
 If the code is run on google colab/ kaggle
 **Make sure you have the .csv file uploaded into the session and placed at the required place** <br>
 
+Thank you
+Project done as part of Elective: Data Analytics (UE19CS312) 
 Team:
 * Moyank Giri, PES1UG19CS280
 * Anusha S Rao, PES1UG19CS077
